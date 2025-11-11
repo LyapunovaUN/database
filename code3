@@ -1,0 +1,262 @@
+
+
+INSERT INTO product (article, name, description, price) VALUES
+('MBP-16-2024', 'MacBook Pro 16" 2024', 'Ноутбук Apple MacBook Pro 16 дюймов 2024 года, M3 Pro, 18GB, 1TB', 299990.00),
+('IPH-16-PRO', 'iPhone 16 Pro', 'Смартфон Apple iPhone 16 Pro 256GB, титановый корпус', 129990.00),
+('SAM-S24-U', 'Samsung Galaxy S24 Ultra', 'Смартфон Samsung Galaxy S24 Ultra 512GB, S Pen', 109990.00),
+('LEN-T14-G3', 'ThinkPad T14 Gen 3', 'Ноутбук Lenovo ThinkPad T14 Gen 3, i7-1260P, 16GB, 512GB', 145990.00),
+('HP-840-G9', 'EliteBook 840 G9', 'Ноутбук HP EliteBook 840 G9, i5-1240P, 16GB, 512GB', 132990.00),
+('MAC-M2-MINI', 'Mac Mini M2', 'Мини-ПК Apple Mac Mini с чипом M2, 8GB, 256GB', 79990.00),
+('IPAD-AIR-6', 'iPad Air 6', 'Планшет Apple iPad Air 6 10.9", 64GB, Wi-Fi', 69990.00),
+('SAM-TAB-S9', 'Galaxy Tab S9', 'Планшет Samsung Galaxy Tab S9 11", 128GB, S Pen', 84990.00),
+('MON-DELL-27', 'Dell UltraSharp 27"', 'Монитор Dell UltraSharp U2723QE 27" 4K IPS', 45990.00),
+('MON-LG-34', 'LG UltraWide 34"', 'Монитор LG 34WN780-B 34" UltraWide QHD IPS', 52990.00),
+('KB-LOG-MX', 'Logitech MX Keys', 'Беспроводная клавиатура Logitech MX Keys', 8990.00),
+('MS-LOG-MX', 'Logitech MX Master 3', 'Беспроводная мышь Logitech MX Master 3', 7990.00),
+('DOCK-DELL', 'Dell Docking Station', 'Док-станция Dell WD19 180W', 15990.00),
+('SSD-SAM-1TB', 'Samsung 980 Pro 1TB', 'SSD накопитель Samsung 980 Pro 1TB M.2 NVMe', 8990.00),
+('SSD-WD-2TB', 'WD Black SN850 2TB', 'SSD накопитель Western Digital Black SN850 2TB', 12990.00),
+('RAM-C16-16', 'Corsair Vengeance 16GB', 'Оперативная память Corsair Vengeance 16GB DDR4 3200MHz', 4590.00),
+('RAM-K32-32', 'Kingston Fury 32GB', 'Оперативная память Kingston Fury Beast 32GB DDR5 5200MHz', 8990.00),
+('CPU-I7-14', 'Intel Core i7-14700K', 'Процессор Intel Core i7-14700K', 38990.00),
+('CPU-R7-7800', 'AMD Ryzen 7 7800X3D', 'Процессор AMD Ryzen 7 7800X3D', 32990.00),
+('MB-ASUS-Z790', 'ASUS ROG Z790', 'Материнская плата ASUS ROG STRIX Z790-F GAMING', 28990.00),
+('MB-MSI-B650', 'MSI B650 Tomahawk', 'Материнская плата MSI MAG B650 TOMAHAWK WIFI', 19990.00),
+('GPU-RTX4080', 'NVIDIA RTX 4080', 'Видеокарта ASUS TUF RTX 4080 16GB', 119990.00),
+('GPU-RTX4070', 'NVIDIA RTX 4070', 'Видеокарта Gigabyte RTX 4070 12GB', 69990.00),
+('PSU-COR-850', 'Corsair RM850x', 'Блок питания Corsair RM850x 850W 80+ Gold', 12990.00),
+('CASE-FD-R7', 'Fractal Design R7', 'Корпус Fractal Design Define R7 Black', 15990.00),
+('COOL-NH-D15', 'Noctua NH-D15', 'Кулер для процессора Noctua NH-D15', 8990.00),
+('AIO-COR-H150', 'Corsair H150i', 'СЖО Corsair iCUE H150i ELITE CAPELLIX', 15990.00),
+('HDD-SEA-4TB', 'Seagate BarraCuda 4TB', 'Жесткий диск Seagate BarraCuda 4TB 3.5"', 8990.00),
+('HDD-WD-6TB', 'WD Red 6TB', 'Жесткий диск Western Digital Red 6TB NAS', 12990.00),
+('NAS-SYN-4B', 'Synology DS423+', 'NAS Synology DiskStation DS423+ 4-байовый', 45990.00),
+('ROUT-ASUS-AX', 'ASUS RT-AX86U', 'Роутер ASUS RT-AX86U AX5700', 17990.00),
+('SWITCH-TP-8', 'TP-Link TL-SG108', 'Коммутатор TP-Link TL-SG108 8-port Gigabit', 2990.00),
+('WEBCAM-LOG', 'Logitech C920', 'Веб-камера Logitech C920 Pro HD', 5990.00),
+('MIC-BLUE-YETI', 'Blue Yeti', 'Микрофон Blue Yeti USB', 12990.00),
+('SPK-LOG-Z333', 'Logitech Z333', 'Акустика Logitech Z333 2.1', 4990.00),
+('UPS-APC-1500', 'APC Back-UPS 1500', 'ИБП APC Back-UPS 1500VA', 19990.00),
+('CABLE-HDMI-2', 'HDMI 2.1 Cable', 'Кабель HDMI 2.1 2m 8K', 1490.00),
+('CABLE-USB-C', 'USB-C Cable', 'Кабель USB-C to USB-C 100W 2m', 990.00),
+('ADAPTER-USB-C', 'USB-C Hub', 'USB-C концентратор 7-in-1', 2990.00),
+('STAND-NB', 'Ноутбук Stand', 'Подставка для ноутбука регулируемая', 1990.00),
+('BAG-T14', 'Sumcase T14', 'Сумка для ноутбука 14" Sumcase', 2990.00),
+('MOUSEPAD-XXL', 'Коврик XXL', 'Игровой коврик 900x400mm', 1990.00),
+('TOOL-KIT', 'Набор инструментов', 'Набор инструментов для сборки ПК', 2990.00),
+('THERMAL-PASTE', 'Термопаста', 'Термопаста Arctic MX-4 4g', 790.00),
+('CLEAN-KIT', 'Набор для чистки', 'Набор для чистки техники', 1290.00),
+('SURGE-PROTECT', 'Сетевой фильтр', 'Сетевой фильтр 6 розеток', 1990.00),
+('LAMP-LED', 'LED лампа', 'Настольная LED лампа', 1590.00),
+('HEADPH-SONY', 'Sony WH-1000XM5', 'Наушники Sony WH-1000XM5', 29990.00),
+('HEADPH-APPLE', 'AirPods Pro 2', 'Наушники Apple AirPods Pro 2', 24990.00),
+('MBP-14-2024', 'MacBook Pro 14" 2024', 'Ноутбук Apple MacBook Pro 14 дюймов 2024 года, M3, 16GB, 512GB', 229990.00),
+('IPH-16', 'iPhone 16', 'Смартфон Apple iPhone 16 128GB, алюминиевый корпус', 89990.00),
+('SAM-S24', 'Samsung Galaxy S24', 'Смартфон Samsung Galaxy S24 256GB', 79990.00),
+('LEN-X1-CARBON', 'ThinkPad X1 Carbon', 'Ноутбук Lenovo ThinkPad X1 Carbon Gen 11, i7-1355U, 16GB, 1TB', 189990.00),
+('HP-DRAGONFLY', 'Elite Dragonfly G4', 'Ноутбук HP Elite Dragonfly G4, i7-1365U, 16GB, 512GB', 179990.00),
+('MAC-STUDIO-M2', 'Mac Studio M2', 'Компьютер Apple Mac Studio с чипом M2 Ultra, 64GB, 1TB', 349990.00),
+('IPAD-PRO-13', 'iPad Pro 13"', 'Планшет Apple iPad Pro 13" 2024, M2, 256GB, Wi-Fi', 129990.00),
+('SAM-TAB-S9+', 'Galaxy Tab S9+', 'Планшет Samsung Galaxy Tab S9+ 12.4", 256GB, S Pen', 109990.00),
+('MON-SAMSUNG-32', 'Samsung Odyssey 32"', 'Монитор Samsung Odyssey G7 32" 4K 240Hz', 67990.00),
+('MON-ASUS-27', 'ASUS ROG 27"', 'Монитор ASUS ROG Swift PG279QM 27" 2K 240Hz', 58990.00);
+
+
+-- Добавляем 50 поставщиков
+INSERT INTO suppliar (name, contact_person, email, phone) VALUES
+('ООО "ТехноПрофи"', 'Иван Сидоров', 'tech@technoprofi.ru', '+79991234501'),
+('АО "ЭлектроКомплект"', 'Мария Иванова', 'sales@electrokomplekt.ru', '+79991234502'),
+('ИП Петров А.В.', 'Алексей Петров', 'petrov@ip-tech.ru', '+79991234503'),
+('ООО "КомпСистемы"', 'Светлана Козлова', 'info@compsystems.ru', '+79991234504'),
+('АО "ДисТехнолоджи"', 'Дмитрий Смирнов', 'distr@dtech.ru', '+79991234505'),
+('ООО "Глобал Тек"', 'Анна Волкова', 'order@globaltek.ru', '+79991234506'),
+('ИП Сергеев К.М.', 'Константин Сергеев', 'sergeev@techsupply.ru', '+79991234507'),
+('ООО "ИТ-Решения"', 'Екатерина Новикова', 'solutions@it-resheniya.ru', '+79991234508'),
+('АО "Процессор Групп"', 'Артем Федоров', 'sales@processorgroup.ru', '+79991234509'),
+('ООО "СетОборудование"', 'Ольга Морозова', 'networking@setevoe.ru', '+79991234510'),
+('ИП Николаев П.С.', 'Павел Николаев', 'nikolaev@hardware.ru', '+79991234511'),
+('ООО "Дельта Техникс"', 'Виктор Павлов', 'delta@technics.ru', '+79991234512'),
+('АО "МикроКомпьютерс"', 'Наталья Семенова', 'micro@computers.ru', '+79991234513'),
+('ООО "БайтСтор"', 'Григорий Егоров', 'byte@store.ru', '+79991234514'),
+('ИП Васнецова Л.К.', 'Людмила Васнецова', 'vasnetsova@components.ru', '+79991234515'),
+('ООО "КиберПлатформа"', 'Станислав Козлов', 'cyber@platform.ru', '+79991234516'),
+('АО "ЦифрРешения"', 'Татьяна Орлова', 'digital@resheniya.ru', '+79991234517'),
+('ООО "ТехноМаркет"', 'Юрий Зайцев', 'market@technomarket.ru', '+79991234518'),
+('ИП Белов Р.А.', 'Роман Белов', 'belov@electronics.ru', '+79991234519'),
+('ООО "КомпЛенд"', 'Елена Соколова', 'computer@land.ru', '+79991234520'),
+('АО "Электроникс Групп"', 'Александр Лебедев', 'group@electronics.ru', '+79991234521'),
+('ООО "ИТ-Партнер"', 'Ирина Виноградова', 'partner@it-partner.ru', '+79991234522'),
+('ИП Громов Д.В.', 'Денис Громов', 'gromov@techparts.ru', '+79991234523'),
+('ООО "СистИнтегратор"', 'Вадим Борисов', 'system@integrator.ru', '+79991234524'),
+('АО "ТехноСервис"', 'Максим Киселев', 'service@technoservice.ru', '+79991234525'),
+('ООО "КомпТехнологии"', 'Лариса Романова', 'tech@computertech.ru', '+79991234526'),
+('ИП Абрамова С.П.', 'Светлана Абрамова', 'abramova@devices.ru', '+79991234527'),
+('ООО "ЭлКомпоненты"', 'Аркадий Медведев', 'components@electronic.ru', '+79991234528'),
+('АО "АйТи Дис"', 'Валерий Филиппов', 'it@distribution.ru', '+79991234529'),
+('ООО "ТехноПроцесс"', 'Инна Соловьева', 'process@technoprocess.ru', '+79991234530'),
+('ИП Данилов М.К.', 'Михаил Данилов', 'danilov@hardwarepro.ru', '+79991234531'),
+('ООО "СоврТехнологии"', 'Галина Полякова', 'modern@tech.ru', '+79991234532'),
+('АО "КомпМир"', 'Сергей Васильев', 'world@computermir.ru', '+79991234533'),
+('ООО "ЭлектроникТрейд"', 'Алиса Павлова', 'trade@electronic.ru', '+79991234534'),
+('ИП Тимофеев А.Р.', 'Андрей Тимофеев', 'timofeev@componentspro.ru', '+79991234535'),
+('ООО "ТехноИннов"', 'Евгений Макаров', 'innovation@techno.ru', '+79991234536'),
+('АО "ЦифрВектор"', 'Оксана Никитина', 'vector@digital.ru', '+79991234537'),
+('ООО "КомпИннов"', 'Виталий Захаров', 'innovation@computer.ru', '+79991234538'),
+('ИП Семенова Т.В.', 'Тамара Семенова', 'semenova@techgoods.ru', '+79991234539'),
+('ООО "ЭлСистемы"', 'Станислав Григорьев', 'systems@electronic.ru', '+79991234540'),
+('АО "ТехноЛогист"', 'Дарья Ковалева', 'logistic@techno.ru', '+79991234541'),
+('ООО "ИТ-Комплект"', 'Руслан Яковлев', 'komplekt@it-complect.ru', '+79991234542'),
+('ИП Морозов И.Л.', 'Игорь Морозов', 'morozov@electronicsupply.ru', '+79991234543'),
+('ООО "КомпРешения"', 'Надежда Фролова', 'resheniya@computer.ru', '+79991234544'),
+('АО "ЭлектрониксПро"', 'Вячеслав Тихонов', 'pro@electronics.ru', '+79991234545'),
+('ООО "ТехноЦентр"', 'Лидия Александрова', 'center@technocentre.ru', '+79991234546'),
+('ИП Кузнецов П.М.', 'Петр Кузнецов', 'kuznetsov@techpartspro.ru', '+79991234547'),
+('ООО "СоврРешения"', 'Маргарита Степанова', 'modern@resheniya.ru', '+79991234548'),
+('АО "КомпТехПлюс"', 'Геннадий Попов', 'plus@computertech.ru', '+79991234549'),
+('ООО "ЭлУстройства"', 'Ксения Воробьева', 'devices@electronic.ru', '+79991234550');
+-- Добавляем 50 мест размещения
+INSERT INTO placement (stillage, shelf, capacity) VALUES
+(1, 1, 100), (1, 2, 100), (1, 3, 100), (1, 4, 100), (1, 5, 100),
+(2, 1, 150), (2, 2, 150), (2, 3, 150), (2, 4, 150), (2, 5, 150),
+(3, 1, 200), (3, 2, 200), (3, 3, 200), (3, 4, 200), (3, 5, 200),
+(4, 1, 50), (4, 2, 50), (4, 3, 50), (4, 4, 50), (4, 5, 50),
+(5, 1, 75), (5, 2, 75), (5, 3, 75), (5, 4, 75), (5, 5, 75),
+(6, 1, 300), (6, 2, 300), (6, 3, 300), (6, 4, 300), (6, 5, 300),
+(7, 1, 25), (7, 2, 25), (7, 3, 25), (7, 4, 25), (7, 5, 25),
+(8, 1, 80), (8, 2, 80), (8, 3, 80), (8, 4, 80), (8, 5, 80),
+(9, 1, 120), (9, 2, 120), (9, 3, 120), (9, 4, 120), (9, 5, 120),
+(10, 1, 60), (10, 2, 60), (10, 3, 60), (10, 4, 60), (10, 5, 60);
+
+-- Добавляем 50 партий товаров
+INSERT INTO party (delivery_date, quantity, suppliar_id, product) VALUES
+('2024-01-10', 50, 1, 'Ноутбук MacBook Pro 16"'),
+('2024-01-11', 100, 2, 'Смартфон iPhone 16 Pro'),
+('2024-01-12', 75, 3, 'Смартфон Samsung S24 Ultra'),
+('2024-01-13', 60, 4, 'Ноутбук ThinkPad T14'),
+('2024-01-14', 80, 5, 'Ноутбук HP EliteBook'),
+('2024-01-15', 120, 6, 'Мини-ПК Mac Mini'),
+('2024-01-16', 200, 7, 'Планшет iPad Air'),
+('2024-01-17', 150, 8, 'Планшет Galaxy Tab S9'),
+('2024-01-18', 90, 9, 'Монитор Dell 27"'),
+('2024-01-19', 70, 10, 'Монитор LG 34"'),
+('2024-01-20', 300, 11, 'Клавиатура Logitech MX'),
+('2024-01-21', 250, 12, 'Мышь Logitech MX Master'),
+('2024-01-22', 180, 13, 'Док-станция Dell'),
+('2024-01-23', 220, 14, 'SSD Samsung 1TB'),
+('2024-01-24', 160, 15, 'SSD WD 2TB'),
+('2024-01-25', 400, 16, 'Оперативная память 16GB'),
+('2024-01-26', 350, 17, 'Оперативная память 32GB'),
+('2024-01-27', 280, 18, 'Процессор Intel i7'),
+('2024-01-28', 320, 19, 'Процессор AMD Ryzen 7'),
+('2024-01-29', 240, 20, 'Материнская плата ASUS'),
+('2024-01-30', 500, 21, 'Материнская плата MSI'),
+('2024-02-01', 450, 22, 'Видеокарта RTX 4080'),
+('2024-02-02', 380, 23, 'Видеокарта RTX 4070'),
+('2024-02-03', 420, 24, 'Блок питания 850W'),
+('2024-02-04', 360, 25, 'Корпус ПК'),
+('2024-02-05', 600, 26, 'Кулер для процессора'),
+('2024-02-06', 550, 27, 'Система охлаждения'),
+('2024-02-07', 480, 28, 'Жесткий диск 4TB'),
+('2024-02-08', 520, 29, 'Жесткий диск 6TB'),
+('2024-02-09', 440, 30, 'NAS Synology'),
+('2024-02-10', 700, 31, 'Роутер ASUS'),
+('2024-02-11', 650, 32, 'Коммутатор TP-Link'),
+('2024-02-12', 580, 33, 'Веб-камера Logitech'),
+('2024-02-13', 620, 34, 'Микрофон Blue Yeti'),
+('2024-02-14', 540, 35, 'Акустика 2.1'),
+('2024-02-15', 800, 36, 'ИБП APC'),
+('2024-02-16', 750, 37, 'Кабель HDMI'),
+('2024-02-17', 680, 38, 'Кабель USB-C'),
+('2024-02-18', 720, 39, 'USB-концентратор'),
+('2024-02-19', 640, 40, 'Подставка для ноутбука'),
+('2024-02-20', 900, 41, 'Сумка для ноутбука'),
+('2024-02-21', 850, 42, 'Игровой коврик'),
+('2024-02-22', 780, 43, 'Набор инструментов'),
+('2024-02-23', 820, 44, 'Термопаста'),
+('2024-02-24', 740, 45, 'Набор для чистки'),
+('2024-02-25', 1000, 46, 'Сетевой фильтр'),
+('2024-02-26', 950, 47, 'Настольная лампа'),
+('2024-02-27', 880, 48, 'Наушники Sony'),
+('2024-02-28', 920, 49, 'Наушники Apple'),
+('2024-02-29', 840, 50, 'Умные часы Apple');
+
+-- Добавляем 50 статусов товаров
+INSERT INTO status (product_id, place_id, party_id, conditions, description, quantity) VALUES
+(1, 1, 1, TRUE, 'Новые ноутбуки, готовы к продаже', 25), (1, 2, 1, TRUE, 'Ноутбуки на основном хранении', 25),
+(2, 3, 2, TRUE, 'Смартфоны в оригинальной упаковке', 50), (2, 4, 2, TRUE, 'Смартфоны на витрине', 50),
+(3, 5, 3, TRUE, 'Флагманские смартфоны', 40), (3, 6, 3, TRUE, 'Смартфоны на распродаже', 35),
+(4, 7, 4, TRUE, 'Бизнес-ноутбуки', 30), (4, 8, 4, TRUE, 'Ноутбуки для корпоративных клиентов', 30),
+(5, 9, 5, TRUE, 'HP ноутбуки в наличии', 40), (5, 10, 5, TRUE, 'Элитбуки на складе', 40),
+(6, 11, 6, TRUE, 'Мини-ПК Apple', 60), (6, 12, 6, TRUE, 'Мак Мини на полках', 60),
+(7, 13, 7, TRUE, 'Планшеты iPad Air', 100), (7, 14, 7, TRUE, 'Новые планшеты', 100),
+(8, 15, 8, TRUE, 'Планшеты Samsung', 75), (8, 16, 8, TRUE, 'Галакси Таб в наличии', 75),
+(9, 17, 9, TRUE, 'Мониторы Dell 4K', 45), (9, 18, 9, TRUE, 'УльтраШарп мониторы', 45),
+(10, 19, 10, TRUE, 'LG ультравайд мониторы', 35), (10, 20, 10, TRUE, 'Широкоформатные мониторы', 35),
+(11, 21, 11, TRUE, 'Клавиатуры Logitech', 150), (11, 22, 11, TRUE, 'Беспроводные клавиатуры', 150),
+(12, 23, 12, TRUE, 'Мыши MX Master', 125), (12, 24, 12, TRUE, 'Эргономичные мыши', 125),
+(13, 25, 13, TRUE, 'Док-станции Dell', 90), (13, 26, 13, TRUE, 'Док-станции для ноутбуков', 90),
+(14, 27, 14, TRUE, 'SSD Samsung 1TB', 110), (14, 28, 14, TRUE, 'Высокоскоростные SSD', 110),
+(15, 29, 15, TRUE, 'SSD WD 2TB', 80), (15, 30, 15, TRUE, 'Игровые SSD', 80),
+(16, 31, 16, TRUE, 'Оперативная память 16GB', 200), (16, 32, 16, TRUE, 'DDR4 память', 200),
+(17, 33, 17, TRUE, 'Память Kingston 32GB', 175), (17, 34, 17, TRUE, 'DDR5 память', 175),
+(18, 35, 18, TRUE, 'Процессоры Intel', 140), (18, 36, 18, TRUE, 'Core i7 процессоры', 140),
+(19, 37, 19, TRUE, 'Процессоры AMD', 160), (19, 38, 19, TRUE, 'Ryzen 7 процессоры', 160),
+(20, 39, 20, TRUE, 'Материнские платы ASUS', 120), (20, 40, 20, TRUE, 'ROG материнские платы', 120),
+(21, 41, 21, TRUE, 'Материнские платы MSI', 250), (21, 42, 21, TRUE, 'B650 платы', 250),
+(22, 43, 22, TRUE, 'Видеокарты RTX 4080', 225), (22, 44, 22, TRUE, 'Игровые видеокарты', 225),
+(23, 45, 23, TRUE, 'Видеокарты RTX 4070', 190), (23, 46, 23, TRUE, 'Видеокарты среднего класса', 190),
+(24, 47, 24, TRUE, 'Блоки питания Corsair', 260), (24, 48, 24, TRUE, 'Блоки питания 850W', 260),
+(25, 49, 25, TRUE, 'Корпуса Fractal Design', 180), (25, 50, 25, TRUE, 'Корпуса для ПК', 180);
+
+SELECT 
+    p.name AS 'Название товара',
+    p.article AS 'Артикул',
+    s.name AS 'Поставщик',
+    SUM(st.quantity) AS 'Количество на складе',
+    p.price AS 'Цена'
+FROM product p
+JOIN status st ON p.product_id = st.product_id
+JOIN party pt ON st.party_id = pt.party_id
+JOIN suppliar s ON pt.suppliar_id = s.suppliar_id
+WHERE st.conditions = TRUE
+GROUP BY p.product_id, p.name, p.article, s.name, p.price
+ORDER BY p.name;
+
+SELECT 
+    pl.stillage AS 'Стеллаж',
+    SUM(st.quantity) AS 'Общее количество',
+    SUM(st.quantity * p.price) AS 'Общая стоимость',
+    COUNT(DISTINCT p.product_id) AS 'Количество разных товаров'
+FROM placement pl
+JOIN status st ON pl.place_id = st.place_id
+JOIN product p ON st.product_id = p.product_id
+WHERE st.conditions = TRUE
+GROUP BY pl.stillage
+ORDER BY pl.stillage;
+
+WITH product_quantities AS (
+    SELECT 
+        p.product_id,
+        p.article,
+        p.name,
+        p.price,
+        SUM(st.quantity) as total_quantity
+    FROM product p
+    JOIN status st ON p.product_id = st.product_id
+    WHERE st.conditions = TRUE
+    GROUP BY p.product_id, p.article, p.name, p.price
+),
+average_calc AS (
+    SELECT AVG(total_quantity) as avg_quantity
+    FROM product_quantities
+)
+SELECT 
+    pq.article AS 'Артикул',
+    pq.name AS 'Название товара',
+    pq.total_quantity AS 'Количество на складе',
+    pq.price AS 'Цена',
+    ac.avg_quantity AS 'Среднее количество по складу',
+    ROUND((pq.total_quantity / ac.avg_quantity) * 100, 2) AS 'Процент от среднего'
+FROM product_quantities pq, average_calc ac
+WHERE pq.total_quantity < ac.avg_quantity
+ORDER BY pq.total_quantity ASC;
